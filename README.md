@@ -8,7 +8,8 @@ typed, and stay out of your way.
 
 - **A typed scripting language** — Rust-powered, single binary, shell-first. Think Perl
   for the modern age, without the horrors. More soon.
-- **[tea.xyz](https://tea.xyz)** — open source funding infrastructure. Coming soon.
+- **[pkgx](https://pkgx.dev)** — the run-anything package manager, and
+  **[tea.xyz](https://tea.xyz)** — open source funding infrastructure. Both shipping.
 
 ## Featured projects
 
@@ -19,10 +20,9 @@ typed, and stay out of your way.
 
 ## Background
 
-Previously at [pkgx](https://pkgx.dev) (the "run anything" package manager).
-Before that: network engineering, a couple of restaurants, some retail. CS + Math,
-Masters in SE. Started writing code when programs were printed in the back of
-magazines.
+CS + Math, Masters in SE. Started writing code when programs were printed in the back
+of magazines. Since then: network engineering, a couple of restaurants, some retail,
+and a lot of open source. Opinions on type systems, strong preferences about toolchains.
 
 ## Languages and tools
 
