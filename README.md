@@ -6,17 +6,20 @@ typed, and stay out of your way.
 
 ## What I'm working on
 
-- **A typed scripting language** — Rust-powered, single binary, shell-first. Think Perl
-  for the modern age, without the horrors. More soon.
 - **[pkgx](https://pkgx.dev)** — the run-anything package manager, and
   **[tea.xyz](https://tea.xyz)** — open source funding infrastructure. Both shipping.
+- **[gpg-inspector](https://github.com/jhheider/gpg-inspector)** — now published on
+  [crates.io](https://crates.io/crates/gpg-inspector): `cargo install gpg-inspector`.
 
 ## Featured projects
 
 | Project | What it is |
 |---------|-----------|
-| [gpg-inspector](https://github.com/jhheider/gpg-inspector) | TUI for inspecting GPG/OpenPGP packet structures. RFC 4880 + RFC 9580. |
-| [semverator](https://github.com/jhheider/semverator) | Semantic version comparison and range resolution — CLI and Rust library. |
+| [gpg-inspector](https://github.com/jhheider/gpg-inspector) | TUI for inspecting GPG/OpenPGP packet structures. RFC 4880 + RFC 9580. On [crates.io](https://crates.io/crates/gpg-inspector). |
+| [semverator](https://github.com/jhheider/semverator) | Semantic version comparison and range resolution — CLI and Rust library. On [crates.io](https://crates.io/crates/semverator). |
+| [tea-gpg-wallet](https://github.com/jhheider/tea-gpg-wallet) | CLI for tea.xyz's GPG wallet system — blockchain payments from the command line. |
+| [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) | The package execution runtime. Run anything. Install nothing. |
+| [pkgxdev/pantry](https://github.com/pkgxdev/pantry) | ~1,600 package manifests powering pkgx. Top contributor. |
 
 ## Background
 
