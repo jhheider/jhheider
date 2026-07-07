@@ -6,6 +6,9 @@ typed, and stay out of your way.
 
 ## What I'm working on
 
+- **[govee-tui](https://github.com/jhheider/govee-tui)**: a clean, colorful terminal UI
+  and CLI for controlling Govee smart-home lights from the keyboard, without the phone
+  app. Fresh v0.1.0: `brew install jhheider/tap/govee-tui`.
 - **[penknife](https://github.com/jhheider/penknife)**: a fast terminal home for your
   markdown writing: browse and search a folder, share any file as clean rich text (paste
   into Docs, email, or Slack with formatting intact), and sync to GitHub Gists with
@@ -24,6 +27,7 @@ typed, and stay out of your way.
 
 | Project | What it is |
 |---------|-----------|
+| [govee-tui](https://github.com/jhheider/govee-tui) | A clean, colorful TUI and CLI for controlling Govee smart-home lights from the keyboard, without the phone app. Install with `brew install jhheider/tap/govee-tui`. |
 | [penknife](https://github.com/jhheider/penknife) | A terminal home for your markdown: browse, search, share any file as clean rich text, and sync to GitHub Gists with honest per-file drift status. On [crates.io](https://crates.io/crates/penknife). |
 | [edikt](https://github.com/jhheider/edikt) | Lossless, format-preserving config editor: edit JSONC/TOML/YAML/KDL/INI/`.env` without reflowing them. jq-flavored, sed-shaped. On [crates.io](https://crates.io/crates/edikt). |
 | [gpg-inspector](https://github.com/jhheider/gpg-inspector) | TUI for inspecting GPG/OpenPGP packet structures. RFC 4880 + RFC 9580. On [crates.io](https://crates.io/crates/gpg-inspector). |
