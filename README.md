@@ -31,14 +31,18 @@ typed, and stay out of your way.
 | Project | What it is |
 |---------|-----------|
 | [govee-tui](https://github.com/jhheider/govee-tui) | A clean, colorful TUI and CLI for controlling Govee smart-home lights from the keyboard, without the phone app. Install with `brew install jhheider/tap/govee-tui`. |
-| [penknife](https://github.com/jhheider/penknife) | A terminal home for your markdown: browse, search, share any file as clean rich text, and sync to GitHub Gists with honest per-file drift status. On [crates.io](https://crates.io/crates/penknife). |
-| [edikt](https://github.com/jhheider/edikt) | Lossless, format-preserving config editor: edit JSONC/TOML/YAML/KDL/INI/`.env` without reflowing them. jq-flavored, sed-shaped. On [crates.io](https://crates.io/crates/edikt). |
-| [pdcst](https://github.com/jhheider/pdcst) | A keyboard-driven terminal podcast player in pure Rust: one binary, no cloud, no account. Mark a show once and new episodes auto-fill your Up Next at publish time. |
+| [penknife](https://heider.cc/penknife/) | A terminal home for your markdown: browse, search, share any file as clean rich text, and sync to GitHub Gists with honest per-file drift status. On [crates.io](https://crates.io/crates/penknife). |
+| [edikt](https://heider.cc/edikt/) | Lossless, format-preserving config editor: edit JSONC/TOML/YAML/KDL/INI/`.env` without reflowing them. jq-flavored, sed-shaped. On [crates.io](https://crates.io/crates/edikt). |
+| [pdcst](https://heider.cc/pdcst/) | A keyboard-driven terminal podcast player in pure Rust: one binary, no cloud, no account. Mark a show once and new episodes auto-fill your Up Next at publish time. |
 | [gpg-inspector](https://github.com/jhheider/gpg-inspector) | TUI for inspecting GPG/OpenPGP packet structures. RFC 4880 + RFC 9580. On [crates.io](https://crates.io/crates/gpg-inspector). |
 | [semverator](https://github.com/jhheider/semverator) | Semantic version comparison and range resolution, as a CLI and Rust library. On [crates.io](https://crates.io/crates/semverator). |
 | [tea-gpg-wallet](https://github.com/jhheider/tea-gpg-wallet) | CLI for tea.xyz's GPG wallet system: blockchain payments from the command line. |
 | [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) | The package execution runtime. Run anything. Install nothing. |
 | [pkgxdev/pantry](https://github.com/pkgxdev/pantry) | ~1,600 package manifests powering pkgx. Top contributor. |
+
+**Libraries** — the reusable crates behind these tools, plus standalone ones like
+[`wsola`](https://crates.io/crates/wsola) (pure-Rust WSOLA time-stretch, lifted
+out of pdcst), are collected at **[heider.cc/crates](https://heider.cc/crates/)**.
 
 ## Background
 
