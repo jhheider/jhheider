@@ -42,7 +42,9 @@ typed, and stay out of your way.
 
 **Libraries** — the reusable crates behind these tools, plus standalone ones like
 [`wsola`](https://crates.io/crates/wsola) (pure-Rust WSOLA time-stretch, lifted
-out of pdcst), are collected at **[heider.cc/crates](https://heider.cc/crates/)**.
+out of pdcst) and [`agentmail-rs`](https://crates.io/crates/agentmail-rs) (an
+unofficial typed client for the AgentMail email API), are collected at
+**[heider.cc/crates](https://heider.cc/crates/)**.
 
 ## Background
 
